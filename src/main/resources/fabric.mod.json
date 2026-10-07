@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "you-stand-no-chance",
+  "version": "1.0.0",
+
+  "name": "You Stand No Chance",
+  "description": "A Mod in Which Adds Basic Scythes",
+  "authors": [
+    "2DSNerd"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "minecraft": "~1.21.1",
+    "java": ">=21"
+  },
+
+  "entrypoints": {
+    "main": [
+      "net.twodsnerd.ysncf.ysncf"
+    ]
+  }
+}
